@@ -9,10 +9,12 @@ Welcome to my web study repository! Here, I keep track of the various blogs and 
 
 ## Studies Overview
 
-| No | Blog Title and Link | Code Description and Link | Date Studied |
-|----|-------------- ------|---------------------------|--------------|
-| 1  | [Python Web Scraping Practical Introduction](https://realpython.com/python-web-scraping-practical-introduction/)| [Example Code Repository](http://examplecode.com) | 10/28/2023 |
-| 2  | [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)   | [Another Example Code Repository](http://anotherexamplecode.com) | MM/DD/YYYY   |
+1. Python Web Scraping
+- Go through Real Python guide on [Python Web Scraping](https://realpython.com/learning-paths/python-web-scraping/)
+
+2. Mozilla Developer Guide on HTTP
+
+3. Mozilla Developer Guide on HTML
 
 
 ## License
