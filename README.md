@@ -1,4 +1,4 @@
-# Web Study
+# FrontEnd Study
 
 Welcome to my frotend study repository! Here, I keep track of the various blogs and code I've studied to enhance my knowledge on web. In this README, you'll find a structured overview linking directly to the resources and the respective code I've worked on.
 
