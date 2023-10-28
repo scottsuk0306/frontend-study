@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "web-study"
+version = "0.1.0"
+description = ""
+authors = ["Scott Suk <scottsuk0306@gmail.com>"]
+readme = "README.md"
+packages = [{include = "web_study"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
