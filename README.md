@@ -9,10 +9,10 @@ Welcome to my web study repository! Here, I keep track of the various blogs and 
 
 ## Studies Overview
 
-| No | Blog Title and Link                                               | Code Description and Link                                         | Date Studied |
-|----|------------------------------------------------------------------|------------------------------------------------------------------|--------------|
-| 1  | [Example Blog Title](http://exampleblog.com)                      | [Example Code Repository](http://examplecode.com)                | MM/DD/YYYY   |
-| 2  | [Another Example Blog Title](http://anotherexampleblog.com)       | [Another Example Code Repository](http://anotherexamplecode.com) | MM/DD/YYYY   |
+| No | Blog Title and Link | Code Description and Link | Date Studied |
+|----|-------------- ------|---------------------------|--------------|
+| 1  | [Python Web Scraping Practical Introduction](https://realpython.com/python-web-scraping-practical-introduction/)| [Example Code Repository](http://examplecode.com) | 10/28/2023 |
+| 2  | [Python's urllib.request for HTTP Requests](https://realpython.com/urllib-request/)   | [Another Example Code Repository](http://anotherexamplecode.com) | MM/DD/YYYY   |
 
 
 ## License
